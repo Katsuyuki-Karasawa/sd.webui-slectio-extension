@@ -1,0 +1,15 @@
+[submodule "a1111-sd-webui-lycoris"]
+	path = a1111-sd-webui-lycoris
+	url = https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris.git
+[submodule "stable-diffusion-webui-localization-ja_JP"]
+	path = stable-diffusion-webui-localization-ja_JP
+	url = https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP
+[submodule "sd-webui-controlnet"]
+	path = sd-webui-controlnet
+	url = https://github.com/Mikubill/sd-webui-controlnet
+[submodule "openpose-editor"]
+	path = openpose-editor
+	url = https://github.com/fkunn1326/openpose-editor.git
+[submodule "sd-extension-system-info"]
+	path = sd-extension-system-info
+	url = https://github.com/vladmandic/sd-extension-system-info
